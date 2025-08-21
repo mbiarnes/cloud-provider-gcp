@@ -3,3 +3,5 @@ cluster/bin
 MERGED_LICENSES
 go.work
 go.work.sum
+# Do not ignore files in vendor directory
+!vendor/**
